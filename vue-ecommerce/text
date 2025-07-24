@@ -1,0 +1,9 @@
+--- REST API :
+1)Loading
+2)Géstion Erreur
+3)State Global
+4)Local Storage / Session
+
+
+//reduce est une methode js qui parcours un tableau
+//fixed = retourne chiffre aprés virgules
